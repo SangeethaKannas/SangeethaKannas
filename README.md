@@ -1,11 +1,13 @@
-### Hi there, I am SangeethaKanna SanthanaKrishnan 👋
+### Hi there,
+
+### I am SangeethaKanna SanthanaKrishnan 👋
 
 
 📌 _Here are a few things that describe me:_
 
 - 💼 &nbsp;I'm currently working full-time at [HCL Tech](https://www.hcltech.com/) as a Fullstack Technical Lead
 - 🔭 &nbsp;Personal goal ─ Start working on Startups
-- 🌱 &nbsp;I’m currently creating a website from where you can learn english from other language
+- 🌱 &nbsp;I’m currently creating a website from where you can learn english from other languages
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
 - 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/sangeethakannas/) | [Email](mailto:sangeethakannas@gmail.com) | [Website](https://sangeethakannas.github.io) 🚀
 - ⚡ &nbsp;_Fun fact:_ I create my own path!!😄
@@ -29,5 +31,3 @@
   <summary>📊 <b><i>Sangeetha Kanna;s GitHub Stats</i></b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=SangeethaKannas&show_icons=true&theme=gotham" alt="Sangeetha Kanna GitHub Stats" />
 </details>
-
-
