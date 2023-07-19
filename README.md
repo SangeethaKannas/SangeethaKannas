@@ -6,7 +6,6 @@
 📌 _Here are a few things that describe me:_
 
 - 💼 &nbsp;I'm currently on a career break and started working on personal projects.
-- 🔭 &nbsp;Personal goal ─ Start working on Startups
 - 🌱 &nbsp;I’m currently creating a website to track expenditure
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
 - 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/sangeethakannas/) | [Email](mailto:sangeethakannas@gmail.com) | [Website](https://sangeethakannas.github.io) 🚀
