@@ -3,7 +3,7 @@
 ### I am Sangeetha Kanna Santhana Krishnan 👋
 
 
-📌 _Here are a few things that describe me:_
+📌 _About me:_
 
 - 💼 &nbsp;I'm currently on a career break and started working on personal projects.
 - 🌱 &nbsp;I’m currently creating a website to track expenditure
