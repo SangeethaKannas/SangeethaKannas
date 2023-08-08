@@ -1,6 +1,6 @@
 ### Hi there,
 
-### I am SangeethaKanna SanthanaKrishnan 👋
+### I am Sangeetha Kanna Santhana Krishnan 👋
 
 
 📌 _Here are a few things that describe me:_
